@@ -1,8 +1,8 @@
-# Привет! 👋 Меня зовут Зеленкин Сергей
+# Привет! Меня зовут Зеленкин Сергей
 
 ---
 
-## 🧑‍💻 Обо мне
+## 💻 Обо мне
 
 Меня зовут **Зеленкин Сергей**. Я начинающий программист на Java, обладающий неиссякаемым энтузиазмом, стремлением к развитию и исследованию новых технологий.
 
@@ -13,7 +13,8 @@
 На собственном сервере я освоил работу с Nginx, использовал Docker для контейнеризации проектов и настройки перехода с HTTP на HTTPS. Настроил отправку email-сообщений из Docker-контейнеров через Postfix.
 
 🔗 [Перейти к проекту Medicines](https://medicine.greem4lab.ru/medicines)  
-**Login:** demo | **Pass:** demo
+**Login:** demo  
+**Pass :** demo
 
 ---
 
@@ -35,22 +36,23 @@
 
 ## 🛠️ Навыки и технологии
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![REST](https://img.shields.io/badge/REST-FFA500?style=flat-square&logo=rest&logoColor=white)  
+![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-%23FFA500.svg?style=flat-square&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FFA500?style=flat-square&logo=rest&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+---
+
+## 📫 Как со мной связаться 
+
+
+-  📧<a href="mailto:i@greem4.ru">Email</a>
+- <a href="https://github.com/Greem4"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+- <a href="https://t.me/Greem4"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 
 ---
 
-## 📫 Как со мной связаться
-
-- ✉️ [Email](mailto:i@greem4.ru)
-- 📂 [GitHub](https://github.com/Greem4)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Greem4&theme=radical&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Greem4&theme=dark&show_icons=true)
