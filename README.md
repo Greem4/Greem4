@@ -46,11 +46,12 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ---
 
-## 📫 Как со мной связаться 
+## 📫 Как со мной связаться
 
 
 -  📧<a href="mailto:i@greem4.ru">Email</a>
-- <a href="https://github.com/Greem4"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+- <a href="https://github.com/Greem4"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"></a>
+
 - <a href="https://t.me/Greem4"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 
 ---
