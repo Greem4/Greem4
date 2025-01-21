@@ -36,7 +36,7 @@
 
 ## 🛠️ Навыки и технологии
 
-![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-%23FFA500.svg?style=flat-square&logo=java&logoColor=white)
+![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-%23000000.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
