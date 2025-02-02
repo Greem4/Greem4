@@ -10,7 +10,7 @@
 
 Недавно я завершил свой первый проект **Medicines** — систему управления списком лекарственных препаратов. В процессе разработки я углубился в изучение Spring Framework, что позволило мне реализовать бизнес-логику и обеспечить надежную архитектуру приложения.
 
-На собственном сервере я освоил работу с Nginx, использовал Docker для контейнеризации проектов и настройки перехода с HTTP на HTTPS. Настроил отправку email-сообщений из Docker-контейнеров через Postfix.
+На собственном сервере я освоил работу с Nginx, использовал Docker для контейнеризации проектов и настройки перехода с HTTP на HTTPS. Настроил отправку email-сообщений из Docker-контейнеров через RabbitMQ.
 
 🔗 [Перейти к проекту Medicines](https://medicine.greem4lab.ru/medicines)  
 **Login:** demo  
@@ -38,8 +38,9 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
